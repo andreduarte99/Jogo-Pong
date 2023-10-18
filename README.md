@@ -36,7 +36,7 @@
 <li align="center">Lógica de Programação</li>
 <li align="center">JavaScript</li>
 <h3 align="center"> 
-    Autor
+    Autor: André Duarte
 </h3>
 <p align="center">
 <img height= 300px width= 300px src="https://github.com/andreduarte99/pong-com-Scratch/assets/42449246/706488b7-a318-4ea5-bc07-dcd35fbf1b64" alt="autor"/>
