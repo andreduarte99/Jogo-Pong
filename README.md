@@ -1,4 +1,4 @@
-<h1 align="center"> Jogo pong com scratch</h1>
+<h1 align="center"> Jogo pong</h1>
 <h2 align="center"> Meu primeiro jogo utilizando lógica de programação e JavaScript.</h2>
 <p align="center">
 <img src="https://github.com/andreduarte99/Jogo-Pong/assets/42449246/02b1b852-2b61-4213-b6e1-489225cda125"/>
